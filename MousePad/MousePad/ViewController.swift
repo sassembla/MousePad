@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  MousePad
 //
-//  Created by illusionismine on 2014/09/14.
+//  Created by illusionismine on 2014/09/16.
 //  Copyright (c) 2014年 KISSAKI. All rights reserved.
 //
 
@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
     }
 
     override func didReceiveMemoryWarning() {

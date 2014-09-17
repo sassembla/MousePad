@@ -2,7 +2,7 @@
 //  MousePadTests.swift
 //  MousePadTests
 //
-//  Created by illusionismine on 2014/09/14.
+//  Created by illusionismine on 2014/09/16.
 //  Copyright (c) 2014年 KISSAKI. All rights reserved.
 //
 
